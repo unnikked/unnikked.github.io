@@ -34,3 +34,5 @@ defaults:
       category: ""
       tags: ""
       
+
+theme: jekyll-theme-leap-day
